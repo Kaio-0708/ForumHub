@@ -56,4 +56,6 @@ Sinta-se à vontade para contribuir com este projeto. Para isso, siga os passos:
 4. Faça push para a branch (`git push origin feature/nova-feature`)
 5. Abra um Pull Request
 
-*Este projeto foi desenvolvido como parte dos desafios propostos pela Alura.*
+## Autor
+
+Kaio Vitor - [GitHub](https://github.com/Kaio-0708)
