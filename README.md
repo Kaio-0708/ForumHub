@@ -2,9 +2,10 @@
 
 Um fórum é um espaço onde todos os participantes de uma plataforma podem colocar suas perguntas sobre determinados assuntos. Aqui na Alura, os alunos e alunas utilizam o fórum para tirar suas dúvidas sobre os cursos e projetos em que estão participando. Este lugar mágico está cheio de muita aprendizagem e colaboração entre alunos, professores e moderadores.
 
-Já sabemos para que serve o fórum e sabemos sua aparência, mas sabemos como ele funciona por trás dos panos? Isto é, onde se armazenam as informações? Como são tratados os dados para que se relacione um tópico com uma resposta, ou como se relacionam os usuários com as respostas de um tópico?
+## 🚧 Em Construção 🚧
 
-Este é o nosso desafio, chamado de **FórumHub**: nele, vamos replicar este processo no nível do back end e, para isso, criaremos uma API REST usando Spring.
+Este projeto está atualmente em construção. Estamos trabalhando ativamente no desenvolvimento e novas funcionalidades serão adicionadas em breve.
+Projeto aceita contribuições! 
 
 ## Funcionalidades da API
 
