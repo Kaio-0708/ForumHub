@@ -61,6 +61,6 @@ Sinta-se à vontade para contribuir com este projeto. Para isso, siga os passos:
 
 Kaio Vitor - [GitHub](https://github.com/Kaio-0708)
 
-## Colaborador 
+## Coautor
 
 Lucas Gabriel - (https://github.com/Lucaslg7)
