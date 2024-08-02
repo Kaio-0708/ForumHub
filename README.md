@@ -63,4 +63,4 @@ Kaio Vitor - [GitHub](https://github.com/Kaio-0708)
 
 ## Coautor
 
-Lucas Gabriel - (https://github.com/Lucaslg7)
+Lucas Gabriel - [GitHub](https://github.com/Lucaslg7)
