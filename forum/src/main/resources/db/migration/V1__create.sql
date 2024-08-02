@@ -37,7 +37,7 @@ CREATE TABLE topic(
     title VARCHAR(50) NOT NULL,
     message TEXT NOT NULL,
     created_at TIMESTAMP NOT NULL,
-    status VARCHAR(50) NOT NULL,
+    status INT NOT NULL,
     fk_category INT NOT NULL,
     fk_subcategory INT NULL,
     fk_course INT NULL,

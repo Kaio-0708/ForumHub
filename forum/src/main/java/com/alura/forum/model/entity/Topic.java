@@ -23,7 +23,9 @@ public class Topic implements CrudDomain<Long> {
     private String title;
     private String message;
     private LocalDateTime createdAt = LocalDateTime.now();
-    private Integer status = 1;
+
+    @Column(name = "status")
+    private int status = 1;
 
     @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "fk_category")
